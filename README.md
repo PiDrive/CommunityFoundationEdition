@@ -6,3 +6,9 @@ This is a community maintained version of the now discontinued [WD PiDrive Found
 This update includes Raspbian Stretch and updated firmware for
 the Raspberry Pi 3 B+.
 
+Check out the latest [release notes](https://github.com/PiDrive/CommunityFoundationEdition/releases/latest).
+
+ 1. Download [pidrive-cfe-20180414.zip](http://downloads.wdpidrive.com/releases/pidrive-cfe-20180414.zip) (2.91 GB).
+ 1. Unzip to a FAT32 formatted microSD card.
+ 1. Boot your Raspberry Pi with a USB storage drive attached.
+
