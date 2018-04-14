@@ -1,0 +1,6 @@
+{
+  "name": "Data Partition",
+  "description": "20GB, ext4 (at /media/pi/data); share between OSes by setting permissions",
+  "slice_exclude": true,
+  "bootable": false
+}
