@@ -9,7 +9,7 @@ the Raspberry Pi 3 B+.
 Check out the latest [release notes](https://github.com/PiDrive/CommunityFoundationEdition/releases/latest).
 
  1. Download
-[pidrive-cfe-20180502.zip](http://downloads.wdpidrive.com/releases/pidrive-cfe-20180502.zip) (2.91 GB).
+[pidrive-cfe-20181112.zip](http://downloads.wdpidrive.com/releases/pidrive-cfe-20181112.zip) (2.46 GB).
  1. Unzip to a FAT32 formatted microSD card.
  1. Boot your Raspberry Pi with a USB storage drive attached.
 
