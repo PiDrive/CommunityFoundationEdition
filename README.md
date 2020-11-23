@@ -9,7 +9,7 @@ the Raspberry Pi 4.
 Check out the latest [release notes](https://github.com/PiDrive/CommunityFoundationEdition/releases/latest).
 
  1. Download
-[pidrive-cfe-20190804.zip](http://downloads.wdpidrive.com/releases/pidrive-cfe-20190804.zip) (2.46 GB).
+[pidrive-cfe-20201123.zip](http://downloads.wdpidrive.com/releases/pidrive-cfe-20201123.zip) (2.50 GB).
  1. Unzip to a FAT32 formatted microSD card.
  1. Boot your Raspberry Pi with a USB storage drive attached.
 
