@@ -1,10 +1,10 @@
 {
-    "description": "Raspbian installed, with partition maximized to use remaining space",
+    "description": "A port of Debian with the Raspberry Pi Desktop",
     "feature_level": 35120124,
     "kernel": "4.19",
     "name": "Raspbian",
     "password": "raspberry",
-    "release_date": "2019-07-10",
+    "release_date": "2020-02-13",
     "supported_hex_revisions": "2,3,4,5,6,7,8,9,d,e,f,10,11,12,14,19,1040,1041,0092,0093,2082",
     "supported_models": [
         "Pi Model",
@@ -16,6 +16,5 @@
     ],
     "url": "http://www.raspbian.org/",
     "username": "pi",
-    "version": "buster",
-    "want_maximized": true
+    "version": "buster"
 }
