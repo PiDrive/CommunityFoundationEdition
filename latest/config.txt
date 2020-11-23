@@ -1,0 +1,7 @@
+gpu_mem=16
+start_file=recovery.elf
+fixup_file=fixup_rc.dat
+
+[pi4]
+start_file=recover4.elf
+fixup_file=fixup4rc.dat
